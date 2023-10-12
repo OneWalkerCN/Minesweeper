@@ -214,7 +214,6 @@ func (gv *GameViewer) Start() {
 			stackContainer.Add(btn)
 			gv.btnArray = append(gv.btnArray, btn)
 			mapContainer.Add(stackContainer)
-			mapContainer.Layout.Layout(mapContainer.Objects, fyne.NewSize(10, 10))
 		}
 	}
 	vbox.Add(dataContainer)
@@ -238,7 +237,7 @@ func (gv GameViewer) isWin() bool {
 			btnNum++
 		}
 	}
-	return btnNum == gv.mineNum
+	return btnNum == gv.mf.mineNum
 }
 
 // 在点击到0时打开一段范围（到周围非数字的地区）的雷区，帮助玩家更好的游玩
