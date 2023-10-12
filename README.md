@@ -13,8 +13,10 @@
 
 ![image](https://github.com/OneWalkerCN/Minesweeper/assets/39230719/43b2a175-a924-45aa-85ef-f02a034254ed)
 
-4. 点击0打开一片
+4. 游戏过程点击空地打开&插旗
 
 ![image](https://github.com/OneWalkerCN/Minesweeper/assets/39230719/471a69f8-5c01-4c51-bb01-18d5b4fd945d)
+![image](https://github.com/OneWalkerCN/Minesweeper/assets/39230719/ab5d6d39-62a2-4b72-9e73-7c9806b3ba61)
+
 
 
