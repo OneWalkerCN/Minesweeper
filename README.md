@@ -1,5 +1,5 @@
 # Minesweeper
-一个Golang扫雷小游戏
+使用Fyne做的一个Golang扫雷小游戏
 ## 游戏演示
 1. 开启菜单，选择难度
    
