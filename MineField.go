@@ -23,6 +23,7 @@ func (v3 Vector3) isEqual(point Vector3) bool {
 	}
 }
 
+// 地图数据
 type MineField struct {
 	//地图长宽
 	length int
